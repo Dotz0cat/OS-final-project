@@ -1,5 +1,5 @@
 
-CFLAGS = -O2 -g -Wall -Wextra -Wshadow -fuse-ld=lld
+CFLAGS = -O2 -g -Wall -Wextra
 #CPPFLAGS
 #LDLIBS
 
